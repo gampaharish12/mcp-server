@@ -16,8 +16,8 @@ import asyncio
 from contextlib import asynccontextmanager
 
 # API Configuration
-API_ENDPOINT = "https://apidata.globaldata.com/GlobalDataSocialMedia/api/content/GetOverallData"
-API_TOKEN_ID = "jSUS2ZMHsdRF7seneARayXzrs2H5pqwdeU4qwSxDq="
+API_ENDPOINT = 
+API_TOKEN_ID = 
 
 # Validate configuration
 if not API_ENDPOINT:
